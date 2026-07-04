@@ -1,14 +1,1 @@
-# Core dependencies
 python-telegram-bot==20.8
-python-dotenv==1.0.0
-
-# Database support
-sqlalchemy==2.0.23
-psycopg2-binary==2.9.9
-alembic==1.12.1
-
-# Optional: For better performance
-# redis==5.0.1
-
-# Production tools
-gunicorn==21.2.0
